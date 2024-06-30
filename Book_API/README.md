@@ -20,5 +20,5 @@
 - [✔]  it should be open sourced on your github repo
 # Extras
 - [✔] Test your components with [jest](https://jest-everywhere.now.sh)
-- [X]  Implement [DDD Pattern]([https://khalilstemmler.com/articles/categories/domain-driven-design/](https://khalilstemmler.com/articles/categories/domain-driven-design/))
+- [ ]  Implement [DDD Pattern]([https://khalilstemmler.com/articles/categories/domain-driven-design/](https://khalilstemmler.com/articles/categories/domain-driven-design/))
 
