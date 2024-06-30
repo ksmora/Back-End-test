@@ -46,6 +46,8 @@ app.listen(config.port, () => {
   console.log(`Server berjalan di port ${config.port}`);
 });
 
+module.exports = app;
+
 /**
  * @swagger
  * components:
